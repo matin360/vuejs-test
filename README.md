@@ -29,6 +29,17 @@ OR
     yarn global add @vue/cli
 ```
 
+## Project setup
+
+Run these commands
+
+```
+    git clone https://github.com/matin360/vuejs-test.git
+```
+```
+    yarn install
+```
+
 ## Create new vuejs porject (optional)
 
 ```
