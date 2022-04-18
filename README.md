@@ -35,16 +35,31 @@
 - Select `Vue 3`
 - Select `Use Yarn`
 
-To run the server (it will also build a project):
+### Compiles and hot-reloads for development
 
 ```
     npm run serve
 ```
 OR
 
-
 ```
     yarn serve
+```
+
+### Compiles and minifies for production
+```
+    yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+You might use this command as well, but add this to your congif file first! (`package.json -> "scripts"`)
+
+```
+yarn lint --fix
 ```
 
 ## Manage project
@@ -64,6 +79,9 @@ There 2 options to manage the project (import/install dependencis, create new pr
 - Go check `package.json` file that contains project configuration. You can modify it according to your preferneces.
 
 - In "scripts" you can see what commands you can run ( e.g run, build, lint)
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Tools you can/have to use in your project
 
