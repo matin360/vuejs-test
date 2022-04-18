@@ -21,7 +21,7 @@
 ```
     npm install -g @vue/cli
 ```
-
+OR
 ```
     yarn global add @vue/cli
 ```
@@ -31,6 +31,7 @@
 ```
     vue create project_name
 ```
+After running the command above
 
 - Select `Vue 3`
 - Select `Use Yarn`
