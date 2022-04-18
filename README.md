@@ -2,6 +2,9 @@
 
 - *This doc is in the progress...*
 - This documentation is inspired by [Vue Mastery](https://www.vuemastery.com/)
+
+## Useful resources
+- [VueJs Docs](https://vuejs.org/guide/introduction.html)
 - For beginners [Vue 3 Intro Course](https://www.vuemastery.com/courses/intro-to-vue-3/forms-and-v-model-vue3)
 - git repo of [Vue 3 Intro Course](https://github.com/Code-Pop/Intro-to-Vue-3)
 - VueJs in production ( highly recommended) [Real World Vue 3 Course](https://www.vuemastery.com/courses/real-world-vue3/vue-cli-creating-the-project)
