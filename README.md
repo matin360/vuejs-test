@@ -128,6 +128,11 @@ then:
 ```
 
 - In case you are required to update dependencies, visit this [link](https://classic.yarnpkg.com/lang/en/docs/cli/upgrade/)
+## Project Debugging
+
+For debugging you can install dev tools on your browser.
+- For `Vue 3` you should install *Vue.js devtools* `beta` version
+- For `Vue 2` you can install *Vue.js devtools* `legacy` version
 
 ## Project Testing
 
