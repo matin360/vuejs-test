@@ -50,7 +50,7 @@ Run these commands
 After running the command above
 
 - Select `Vue 3`
-- Select `Use Yarn`
+- Select either `Use Yarn` (recommended) or `Use NPM`
 
 ### Compiles and hot-reloads for development
 
