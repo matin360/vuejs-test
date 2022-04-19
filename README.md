@@ -71,7 +71,7 @@ OR
 yarn lint
 ```
 
-You might use this command as well, but add this to your congif file first! (`package.json -> "scripts"`)
+You might use this command as well, but add this to your config file first! (`package.json -> "scripts"`)
 
 ```
 yarn lint --fix
