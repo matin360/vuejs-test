@@ -116,7 +116,7 @@ You will need this a lot :D
 
 Sometimes you might have issues with dependencies which are located in `node_modules`. Terminal usually specifies which dependency is a problem ( e.g old version, absence, etc )
 
-- In case you project does not have a particular depency, just add it to your config file `package.json` running this command:
+- In case your project does not have a particular depency, just add it to your config file `package.json` running this command:
 ```
     yarn add *depency_name*
 ```
