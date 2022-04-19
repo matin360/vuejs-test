@@ -2,7 +2,7 @@
 
 - *This doc is in the progress...*
 - This documentation is inspired by [Vue Mastery](https://www.vuemastery.com/)
-- It is mostly about project management using package managers like yarn or npm which can applied even to project with another tech stack ( e.g React)
+- It is mostly about project management using package managers like `yarn` or `npm` which can applied even to projects with another tech stack ( e.g React)
 
 ## Useful resources
 - [VueJs Docs](https://vuejs.org/guide/introduction.html)
