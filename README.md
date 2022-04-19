@@ -40,7 +40,7 @@ Run these commands
     yarn install
 ```
 
-## Create new vuejs porject (optional)
+## Create new vuejs project
 
 ```
     vue create project_name
@@ -86,12 +86,11 @@ There 2 options to manage the project (import/install dependencis, create new pr
 
 ```
     vue ui
-
 ```
 
 ## Project Config
 
-- Go check `package.json` file that contains project configuration. You can modify it according to your preferneces.
+- Go check `package.json` file that contains project configuration. You can modify it according to your preferences.
 
 - In "scripts" you can see what commands you can run ( e.g run, build, lint)
 
@@ -106,6 +105,12 @@ You will need this a lot :D
 - info about Babel [here](https://babeljs.io/)
 - info about Webpack [here](https://webpack.js.org/)
 - info about Rollup [here](https://rollupjs.org/guide/en/)
+
+## Install extensions if you use VScode
+
+- *Vetur* - to work with `vue` files
+
+- *es6-string-html* - to use use *HTML* in `js` files
 
 ## Project Testing
 
