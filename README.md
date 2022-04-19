@@ -43,7 +43,7 @@ Run these commands
 ## Create new vuejs project
 
 ```
-    vue create project_name
+    vue create *project_name*
 ```
 After running the command above
 
@@ -68,13 +68,13 @@ OR
 
 ### Lints and fixes files
 ```
-yarn lint
+    yarn lint
 ```
 
 You might use this command as well, but add this to your config file first! (`package.json -> "scripts"`)
 
 ```
-yarn lint --fix
+    yarn lint --fix
 ```
 
 ## Manage project
@@ -111,6 +111,21 @@ You will need this a lot :D
 - *Vetur* - to work with `vue` files
 
 - *es6-string-html* - to use use *HTML* in `js` files
+
+## Resolve dependency issues
+
+Sometimes you might have issues with dependencies which are located in `node_modules`. Terminal usually specifies which dependency is a problem ( e.g old version, absence, etc )
+
+- In case you project does not have a particular depency, just add it to your config file `package.json` running this command:
+```
+    yarn add *depency_name*
+```
+then:
+```
+    yarn install
+```
+
+- In case you are required to update dependencies, visit this [link](https://classic.yarnpkg.com/lang/en/docs/cli/upgrade/)
 
 ## Project Testing
 
