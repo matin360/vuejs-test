@@ -4,13 +4,13 @@
 - It is mostly about project management using package managers like `yarn` or `npm` which can be applied even to projects with another tech stack ( e.g React)
 - Inspired by [Vue Mastery](https://www.vuemastery.com/)
 
-
 ## Useful resources
 - [VueJs Docs](https://vuejs.org/guide/introduction.html)
 - For beginners [Vue 3 Intro Course](https://www.vuemastery.com/courses/intro-to-vue-3/forms-and-v-model-vue3)
 - git repo of [Vue 3 Intro Course](https://github.com/Code-Pop/Intro-to-Vue-3)
 - VueJs in production ( highly recommended, but only 2 first lessons are avavailable for free, which is enough to know the project's structure) [Real World Vue 3 Course](https://www.vuemastery.com/courses/real-world-vue3/vue-cli-creating-the-project)
 - git repo of [VueJs in production](https://github.com/Code-Pop/real-world-vue)
+- Vue Router [here](https://vueschool.io/articles/vuejs-tutorials/how-to-use-vue-router-a-complete-tutorial/)
 
 ## Pre-installation
 - Please, install both.
