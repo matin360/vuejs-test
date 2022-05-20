@@ -11,6 +11,7 @@
 - VueJs in production ( highly recommended, but only 2 first lessons are avavailable for free, which is enough to know the project's structure) [Real World Vue 3 Course](https://www.vuemastery.com/courses/real-world-vue3/vue-cli-creating-the-project)
 - git repo of [VueJs in production](https://github.com/Code-Pop/real-world-vue)
 - Vue Router [here](https://vueschool.io/articles/vuejs-tutorials/how-to-use-vue-router-a-complete-tutorial/)
+- [VueJs project deployment in heroku](https://betterprogramming.pub/deploying-a-vue-js-app-to-heroku-d16f95c07a04)
 
 ## Pre-installation
 - Please, install both.
