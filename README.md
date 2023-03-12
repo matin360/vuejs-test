@@ -1,6 +1,5 @@
 # VueJS project
 
-- *This doc is in the progress...*
 - It is mostly about project management using package managers like `yarn` or `npm` which can be applied even to projects with another tech stack ( e.g React)
 - Inspired by [Vue Mastery](https://www.vuemastery.com/)
 
@@ -134,8 +133,3 @@ then:
 For debugging you can install dev tools on your browser.
 - For `Vue 3` you should install *Vue.js devtools* `beta` version
 - For `Vue 2` you can install *Vue.js devtools* `legacy` version
-
-## Project Testing
-
-...
-
